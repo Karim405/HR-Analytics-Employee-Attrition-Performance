@@ -1,4 +1,4 @@
-# HR Employee Attrition Analytics Dashboard | End-to-End Data Analysis Project
+# HR Employee Attrition Analytics Dashboard
 
 ---
 
@@ -227,7 +227,3 @@ The dashboard replaces manual Excel reporting with a centralized decision-making
 - Business Dashboard Storytelling
 
 
-
-## Author
-**Karim Hamada**  
-Aspiring Data Analyst | Power BI Developer | Python for Data Analytics
